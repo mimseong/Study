@@ -9,7 +9,7 @@
 - 깃레포 [링크](https://github.com/mimseong/Refactoring)
 
 Real MySQL
-- 23/03/22 ~ 
+- 23/03/22 ~ 23/06/14
 - 회사 팀원들과 진행
 
 몽고DB
