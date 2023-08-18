@@ -11,3 +11,15 @@ DEVIEW 2023
 - https://deview.kr/2023/sessions/566
 - VictoriaMetrics: 시계열 데이터 대혼돈의 멀티버스
 - https://deview.kr/2023/sessions/558
+
+Pycon 2022
+- 파이썬 타입 힌트 제대로 활용하기
+- https://2022.pycon.kr/program/talks/12
+
+Pycon 2019
+- 시간 복잡도로 살펴보는 파이썬 내장 자료형의 효율적인 활용
+- https://youtu.be/XXGd_t6YF50
+
+Pycon 2017
+- 파이썬에서 편하게 테스트 케이스 작성하기
+- https://youtu.be/rxCjxX4tT1E
