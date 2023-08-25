@@ -2,6 +2,14 @@
 
 **볼 것들**
 
+인프콘 2022
+- 지금 당장 DevOps를 해야하는 이유, 김충섭
+- https://www.inflearn.com/course/lecture?courseSlug=infcon2022&unitId=126506
+- 코드 리뷰의 또 다른 접근 방법: Pull Requests vs. Stacked Changes
+- https://www.inflearn.com/course/lecture?courseSlug=infcon2022&unitId=126510
+- 인프런 아키텍처의 과거, 현재 그리고 미래
+- https://www.inflearn.com/course/lecture?courseSlug=infcon2022&unitId=126515
+
 DEVIEW 2023
 - 네이버 스케일로 카프카 컨슈머 사용하기
 - https://deview.kr/2023/sessions/577
