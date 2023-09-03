@@ -5,8 +5,6 @@
 인프콘 2022
 - 지금 당장 DevOps를 해야하는 이유, 김충섭
 - https://www.inflearn.com/course/lecture?courseSlug=infcon2022&unitId=126506
-- 코드 리뷰의 또 다른 접근 방법: Pull Requests vs. Stacked Changes
-- https://www.inflearn.com/course/lecture?courseSlug=infcon2022&unitId=126510
 - 인프런 아키텍처의 과거, 현재 그리고 미래
 - https://www.inflearn.com/course/lecture?courseSlug=infcon2022&unitId=126515
 
@@ -41,5 +39,5 @@ if kakao 2022
 인프콘 2022
 - [나와 팀을 성장시키는 리뷰들](https://github.com/mimseong/Study/blob/main/Conference/%EB%82%98%EC%99%80%ED%8C%80%EC%9D%84%EC%84%B1%EC%9E%A5%EC%8B%9C%ED%82%A4%EB%8A%94%EB%A6%AC%EB%B7%B0%EB%93%A4.md)
 - [나도 내 코드의 문제를 찾고 싶다고요?!](https://github.com/mimseong/Study/blob/main/Conference/%EB%82%98%EB%8F%84%EB%82%B4%EC%BD%94%EB%93%9C%EC%9D%98%EB%AC%B8%EC%A0%9C%EB%A5%BC%EC%B0%BE%EA%B3%A0%EC%8B%B6%EB%8B%A4%EA%B3%A0%EC%9A%94.md)
-
+- [코드 리뷰의 또 다른 접근 방법: Pull Requests vs. Stacked Changes](https://github.com/mimseong/Study/blob/main/Conference/%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EC%9D%98%EB%98%90%EB%8B%A4%EB%A5%B8%EC%A0%91%EA%B7%BC%EB%B0%A9%EB%B2%95.md)
 
