@@ -2,6 +2,10 @@
 
 **볼 것들**
 
+인프콘 2023
+- 소프트웨어 설계를 위한 추상적, 구조적 사고
+- https://www.inflearn.com/course/lecture?courseSlug=%EC%9D%B8%ED%94%84%EC%BD%982023-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0&unitId=177911
+
 인프콘 2022
 - 지금 당장 DevOps를 해야하는 이유, 김충섭
 - https://www.inflearn.com/course/lecture?courseSlug=infcon2022&unitId=126506
