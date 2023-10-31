@@ -8,3 +8,8 @@
 
 ![image](https://github.com/mimseong/Study/assets/50068946/5410d972-99c8-49da-bd56-6a8d3d616631)
 
+## 3장 데코레이터 패턴
+
+![image](https://github.com/mimseong/Study/assets/50068946/02f2bccb-0095-45e9-8510-e98dd7969fc4)
+
+
