@@ -10,6 +10,10 @@
 
 ## 3장 데코레이터 패턴
 
-![image](https://github.com/mimseong/Study/assets/50068946/02f2bccb-0095-45e9-8510-e98dd7969fc4)
+<img width="703" alt="image" src="https://github.com/mimseong/Study/assets/50068946/84b930e0-e552-4621-8313-3f67ed5429e8">
+
+## 4장 팩토리 패턴
+
+<img width="723" alt="image" src="https://github.com/mimseong/Study/assets/50068946/2dc7f684-60aa-4865-96ca-f86849a0a2a2">
 
 
